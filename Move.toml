@@ -1,0 +1,8 @@
+[package]
+name = "BountyBoard"
+version = "0.1.0"
+authors = ["auto-generated"]
+description = "Bounty Board for EVE Frontier - player-created bounty hunting in Sui Move"
+
+[dependencies]
+Sui = "0.3.0"
